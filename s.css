@@ -1,0 +1,4 @@
+nln { display: block; margin-top: var(--space, 2px); }
+nln2 { display: block; margin-top: var(--space, 16px); }
+img { max-width: 100%; height: auto; display: block; }
+a { text-decoration: none; }
