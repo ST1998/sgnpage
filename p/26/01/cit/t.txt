@@ -1,0 +1,183 @@
+### Crash Bandicoot (1) [1996]
+
+( W1  ) N. Sanity Island ➡️ Isola della follia
+( 01  ) N. Sanity Beach  ➡️ Costa d'esordio
+( 02  ) Jungle Rollers   ➡️ Passo ammacchevole
+( 03  ) The Great Gate   ➡️ Varcatavico
+( 04  ) Boulders         ➡️ Massi astiosi
+( 05  ) Upstream         ➡️ Fiume d'azzardo
+( 06  ) Rolling Stones   ➡️ Rullo di tamburi
+( 07  ) Hog Wild         ➡️ Piede di porco
+( 08  ) Native Fortress  ➡️ Bastionativa
+
+( W2  ) Wumpa Island    ➡️ Isola Wumpa
+( 09  ) Up the Creek    ➡️ Niente zattere
+( 10  ) The Lost City   ➡️ Civiltà perduta
+( 11  ) Temple Ruins    ➡️ Rovine arcane
+( 12  ) Road to Nowhere ➡️ Via Fatiscente
+( 13  ) Boulder Dash    ➡️ Massi tenaci
+( 🗝️A ) Whole Hog       ➡️ Grugnevole
+( 14  ) Sunset Vista    ➡️ Civiltà all'orizzonte
+
+( W3  ) Cortex Island        ➡️ Isola Cortex
+( 15  ) Heavy Machinery      ➡️ Impianto fonico
+( 16  ) Cortex Power         ➡️ Impianto corticale
+( 17  ) Generator Room       ➡️ Impianto reattivo
+( 18  ) Toxic Waste          ➡️ Gli scaricabarili
+( 19  ) The High Road        ➡️ Via Malagevole
+( 20  ) Slippery Climb       ➡️ Scalata bagnata
+( 21  ) Lights Out           ➡️ Fonte di lume
+( 🗝️B ) Fumbling in the Dark ➡️ Pencolar al buio
+( 22  ) Jaws of Darkness     ➡️ Tenebre serpanti
+( 23  ) Castle Machinery     ➡️ Rocca ingranosa
+( 24  ) The Lab              ➡️ Laborante
+( 25  ) Stormy Ascent        ➡️ Ascesa tormentosa
+( 26  ) The Great Hall       ➡️ Momento cruciale
+
+( W?  ) Lost Treasures    ➡️ Tesori perduti
+( ?1  ) Astound the Skunk ➡️ Vetta maravigliao
+( ?2  ) Flowing Waters    ➡️ Croscio sfilzoso
+( ?3  ) Lava Cave         ➡️ Grotta magmatica
+( ?4  ) Acid Rain         ➡️ Antro muschiova
+——————————————————————————————————————————————————————————————————
+### Crash Bandicoot 2: Cortex Strikes Back (1997)
+
+( W1  ) Warp Room 1  ➡️ 1a Sala dei Varchi
+( 01  ) Turtle Woods ➡️ Boschiruga
+( 02  ) Snow Go      ➡️ Nevai-vai
+( 03  ) Hand Eight   ➡️ Alla de-riva
+( 04  ) The Pits     ➡️ Fossa mori'
+( 05  ) Crash Dash   ➡️ Corsa fredda
+
+( W2  ) Warp Room 2  ➡️ 2a Sala dei Varchi
+( 06  ) Snow Biz     ➡️ Nevalezero
+( 07  ) Air Crash    ➡️ Aria compresa
+( 08  ) Bear It      ➡️ Orsù, calma!
+( 09  ) Crash Crush  ➡️ Fuga pallida
+( 10  ) The Eel Deal ➡️ Ho capito-ne
+
+( W3  ) Warp Room 3    ➡️ 3a Sala dei Varchi
+( 11  ) Plant Food     ➡️ Piantagrane
+( 12  ) Sewer or Later ➡️ Cloacassiale
+( 13  ) Bear Down      ➡️ Orso duro
+( 14  ) Road to Ruin   ➡️ Rava che rovi
+( 15  ) Un-Bearable    ➡️ Minacciorso
+
+( W4  ) Warp Room 4     ➡️ 4a Sala dei Varchi
+( 16  ) Hangin’ Out     ➡️ Appeso su filo
+( 17  ) Diggin’ It      ➡️ Scav-a fondo
+( 18  ) Cold Hard Crash ➡️ Che freddo cane
+( 19  ) Ruination       ➡️ Rovinescenza
+( 20  ) Bee-Having      ➡️ D-ape-rtutto
+
+( W5  ) Warp Room 5    ➡️ 5a Sala dei Varchi
+( 21  ) Piston It Away ➡️ Te pisto fori
+( 22  ) Rock It        ➡️ Andar a razzo
+( 23  ) Night Fight    ➡️ Salto nel buio
+( 24  ) Pack Attack    ➡️ Razzo pazzo
+( 25  ) Spaced Out     ➡️ Di tutt-i colori
+
+( W0  ) Secret Warp Room ➡️ Sottosala dei Varchi
+( 🗝️A ) Totally Bear     ➡️ Polare al pesto
+( 🗝️B ) Totally Fly      ➡️ Segui la luce
+——————————————————————————————————————————————————————————————————
+### Crash Bandicoot (3): Warped (1998 - PS1) [Naughty Dog]
+
+( W1  ) Warp Room 1    ➡️ 1a Sala dei Varchi
+( 01  ) Toad Village   ➡️ Borgo rosposo
+( 02  ) Under Pressure ➡️ Sotto pressione
+( 03  ) Orient Express ➡️ Vagone d'Oriente
+( 04  ) Bone Yard      ➡️ Ossaurico
+( 05  ) Makin’ Waves   ➡️ Ondeggiar...
+
+( W2  ) Warp Room 2   ➡️ 2a Sala dei Varchi
+( 06  ) Gee Wiz       ➡️ Maghi infami
+( 07  ) Hang ’Em High ➡️ Su di corda
+( 08  ) Hog Ride      ➡️ Oltrecinghia
+( 09  ) Tomb Time     ➡️ Silenzio tombale
+( 10  ) Midnight Run  ➡️ La lunaglia
+
+( W3  ) Warp Room 3   ➡️ 3a Sala dei Varchi
+( 11  ) Dino Might!   ➡️ Galopposauro<br>
+( 12  ) Deep Trouble  ➡️ Mare di guai<br>
+( 13  ) High Time     ➡️ All'Arabiata<br>
+( 14  ) Road Crash    ➡️ Prender buca<br>
+( 15  ) Double Header ➡️ Un corpo per due
+
+( W4  ) Warp Room 4    ➡️ 4a Sala dei Varchi
+( 16  ) Sphynxinator   ➡️ Sfingere via<br>
+( 17  ) Bye Bye Blimps ➡️ Dirigi-e-basta!<br>
+( 18  ) Tell No Tales  ➡️ Storie pira-tese<br>
+( 19  ) Future Frenzy  ➡️ Mal di futuro <br>
+( 20  ) Tomb Wader     ➡️ Mummi-a galla
+
+( W5  ) Warp Room 5     ➡️ 5a Sala dei Varchi
+( 21  ) Gone Tomorrow   ➡️ A più tardi!
+( 22  ) Orange Asphalt  ➡️ Asfalto sbucciato
+( 23  ) Flaming Passion ➡️ Notte piccante
+( 24  ) Mad Bombers     ➡️ Piovono bombe
+( 25  ) Bug Lite        ➡️ Fara-lume
+
+( W6  ) "Secret" W.R. 6 ➡️ 6a (Sotto)sala dei Varchi
+( 26  ) Ski Crazed      ➡️ O-sci-llante
+( 27  ) Area 51?        ➡️ Area 51… e mezzo?
+( 28  ) Rings of Power  ➡️ Anelli di ci-volo
+( 🗝️A ) Hot Coco        ➡️ Cocobello!
+( 🗝️B ) Eggipus Rex     ➡️ Ovutiranno
+
+( W7  ) Single Warp Room ➡️ Sala del unico Varco
+( 29  ) Future Tense     ➡️ Futuro tensile
+——————————————————————————————————————————————————————————————————
+### Crash Bash (2000 - PS1) [Eurocom] ###
+
+( MEANING / SIGNIFICATO )
+W.R.          = Warp Room
+Pogo Pand.    = Pogo Pandemonium
+Med. Mayhem   = Medieval Mayhem
+Tum. medioev. = Tumulto medioevale
+
+( W1 ) W.R. 1 (Ruins)           ➡️ 1a Sala dei Varchi (Rovine)
+( 01 ) Crash Ball (Ballistix)   ➡️ Bilie scontrose (Sferistica)
+( 02 ) Polar Panic (Polar Push) ➡️ Pazzia al polo (Urto polare)
+( 03 ) Pogo Painter (Pogo Pand.)➡️ Colorpogando (Poghiferio)
+( 04 ) Jungle Bash (Crate Crush)➡️ Botte selvate (Colpi cassati)
+( B1 ) Papu Pummel              ➡️ Papugnare
+
+( W2 ) W.R. 2 (Arctic)         ➡️ 2a Sala dei Varchi (Artico)
+( 05 ) Beach Ball (Ballistix)  ➡️ Costa biliarda (Sferistica)
+( 06 ) Tilt Panic (Polar Push) ➡️ Pender su pazzia (Urto polare)
+( 07 ) Pogo-a-Gogo (Pogo Pand.)➡️ Pogo qui, pogo la' (Poghiferio)
+( 08 ) Space Bash (Crate Crush)➡️ Botte spaziali (Colpi cassati)
+( 09 ) Desert Fox (Tank Wars)  ➡️ Servir al granulo (Carri armati)
+( B2 ) Bearminator             ➡️ Terminaturso
+
+( W3 ) W.R. 3 (Prehistoric)     ➡️ 3a Sala dei Varchi (Preistoria)
+( 10 ) N. Ballism (Ballistix)   ➡️ Emibiliasmo (Sferistica)
+( 11 ) Melt Panic (Polar Push)  ➡️ Romper la pazzia (Urto polare)
+( 12 ) El Pogo Loco (Pogo Pand.)➡️ El Pogo Loco (Poghiferio)
+( 13 ) Snow Bash (Crate Crush)  ➡️ Botte nevose (Colpi cassati)
+( 14 ) Metal Fox (Tank Wars)    ➡️ Servir col ferro (Carri armati)
+( 15 ) Dot Dash (Crash Dash)    ➡️ Giro puntinato (Cerchioni)
+( B3 ) Kong Komodo              ➡️ Komodonti
+
+( W4 ) W.R. 4 (Jungle)          ➡️ 4a Sala dei Varchi (Giungla)
+( 16 ) Sky Balls (Ballistix)    ➡️ A bilia d'uccello (Sferistica)
+( 17 ) Manic Panic (Polar Push) ➡️ Saltar in pazzia (Urto polare)
+( 18 ) Pogo Padlock (Pogo Pand.)➡️ Chiuder col pogo (Poghiferio)
+( 19 ) Drain Bash (Crate Crush) ➡️ Botte fognose (Colpi cassati)
+( 20 ) Jungle Fox (Tank Wars)   ➡️ Servir sul verde (Carri armati)
+( 21 ) Toxic Dash (Crash Dash)  ➡️ Giro nocivo (Cerchioni)
+( 22 ) Ring Ding (Med. Mayhem)  ➡️ Tictac ad aria (Tum. medioev.)
+( B4 ) Oxide Ride               ➡️ Controssido
+
+( W5 ) W.R. 5 (Special)         ➡️ 5a Sala dei Varchi (Speciale)
+( 23 ) Splash Dash (Crash Dash) ➡️ Giro schizzante (Cerchioni)
+( 24 ) Dragon Drop (Med. Mayhem)➡️ Bocce dracose (Tum. medioev.)
+( 25 ) Mallet Mash (Med. Mayhem)➡️ Pure' di miceti (Tum. medioev.)
+( 26 ) Swamp Fox (Tank Wars)    ➡️ Servir in palude (Carri armati)
+( 27 ) Keg Kaboom (Med. Mayhem) ➡️ Botteriera (Tum. medioev.)
+( 28 ) Dante's Dash (Crash Dash)➡️ Giro dantesco (Cerchioni)
+
+( W? ) Unused / Scrapped Minigames
+Chicken Run (Medieval Mayhem)   ➡️ Spennatiro (Tum. Medioev.)
+Pogo Pharaoh (Pogo Pandemonium) ➡️ Tutankpogon (Poghiferio)
