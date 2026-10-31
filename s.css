@@ -1,5 +1,24 @@
 img { max-width: 100%; height: auto; display: block; }
 a { text-decoration: none; }
+w1 { font-size: 120%; }
+.lg { width: 90px; height: 28px; }
 
 @font-face { font-family: 'main'; src: url('font.woff2') format('woff2'); font-display: swap; }
 body { font-family: 'main', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+
+@keyframes logo {
+0% { transform: perspective(1000px) rotateY(0deg) translateY(0); }
+25% { transform: perspective(1000px) rotateY(15deg) translateY(8px); }
+50% { transform: perspective(1000px) rotateY(-15deg) translateY(-8px); }
+75% { transform: perspective(1000px) rotateY(5deg) translateY(4px); }
+100% { transform: perspective(1000px) rotateY(0deg) translateY(0); } }
+img[src="logo.png"] { animation: logo 4s ease-in-out infinite; perspective: 1000px; display: block; max-width: 100%; height: auto; will-change: transform; }
+
+a { animation: blue-dither 3s infinite steps(1); }
+@keyframes blue-dither {
+0% { color: #000a14; } 10% { color: #001f3f; }
+20% { color: #003366; } 30% { color: #005599; }
+40% { color: #0077cc; } 50% { color: #00aaff; }
+60% { color: #0077cc; } 70% { color: #005599; }
+80% { color: #003366; } 90% { color: #001f3f; } }
+a:hover { text-decoration: underline; animation-play-state: paused; }
