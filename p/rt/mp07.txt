@@ -1,5 +1,5 @@
 ####    Super Mario Planet (2007, J2ME)    ####
-##    [208x208]  (J2ME Loader on Android)    ##
+## [208x208] (J2ME Loader v1.8.2 on Android) ##
 ———————————————————————————————————————————————
 ————————————–——————————————————————————————————
 ( MEANING )                     SC: Total Score

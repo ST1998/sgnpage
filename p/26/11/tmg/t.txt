@@ -1,6 +1,6 @@
 # Tropical Madness  (2006, J2ME) [Gameloft SA] #
 # MDL: s40v3a/N6280 · RES: 240x320 · GV: 1.1.9 #
-#       PLAYED ON: J2ME Loader (Android)       #
+#   PLAYED ON:  J2ME Loader v1.8.2 (Android)   #
 ————————————————————————————————————————————————
 ————————————————————————————————————————————————
 ( MEANING ) MDL: Phone Model · GV: Game Version
